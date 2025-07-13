@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ayush Sachin Wattamwar
 
-<!--
-**A-Wattamwar/A-Wattamwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science major at Arizona State University, concentrating in Software Engineering with a minor in Business. I'm deeply passionate about building robust and meaningful software products—especially those that intersect with AI, entrepreneurship, and user-centered design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushwattamwar)
+- 💼 [GitHub](https://github.com/A-Wattamwar)
+- 🌐 Portfolio: Coming soon
+
+Always open to new opportunities, collaborations, or just a good old brainstorming session. Let’s build the future together. 🚀
