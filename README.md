@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Ayush Sachin Wattamwar
 
 🎓 Sophomore @ Arizona State University | BS in Computer Science (Software Engineering) | Minor in Business  
-📍 Tempe, AZ | GPA: 4.0
+📍 Tempe, AZ | GPA: 4.0  
+
+🌐 **Portfolio**: [**ayushwattamwar.com**](https://ayushwattamwar.com)  
 
 💻 I'm passionate about building scalable and intelligent software. From AI-integrated APIs to immersive web platforms and full-featured iOS apps, I enjoy solving real-world problems with clean code and thoughtful design.
 
