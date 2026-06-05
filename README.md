@@ -1,4 +1,4 @@
-# Hi, I'm Ayush Sachin Wattamwar 👋
+# Hi, I'm Ayush! 👋
 
 **Computer Science (Software Engineering) @ Arizona State University** · 4.0 GPA · Graduating May 2027
 📍 Tempe, AZ · 🌐 [ayushwattamwar.com](https://ayushwattamwar.com)
